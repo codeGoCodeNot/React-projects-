@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Inter", sans-serif;
   background: #27292c;
   color: white;
 }
@@ -21,5 +21,21 @@ nav li {
   main ul {
     margin-left: 2em;
     font-size: 1rem;
+  }
+
+  header {
+    flex-direction: column;
+  }
+
+  header div {
+    margin-bottom: 50px;
+  }
+
+  .title {
+    font-size: 1.5rem;
+  }
+
+  ul {
+    flex-direction: column;
   }
 }

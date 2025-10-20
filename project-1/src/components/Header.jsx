@@ -7,7 +7,9 @@ const Header = () => {
           src="/src/assets/react.svg"
           alt="React logo"
         />
-        <h1 className="font-black  text-5xl text-[#5ed1f2]">ReactFacts</h1>
+        <h1 className="title font-black  text-5xl text-[#5ed1f2]">
+          ReactFacts
+        </h1>
       </div>
       <nav>
         <ul className="flex gap-3 px-3">
