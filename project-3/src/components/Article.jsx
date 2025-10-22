@@ -33,6 +33,7 @@ const Article = ({ details }) => {
       >
         <p
           className="
+        japan
         flex items-center gap-2 text-xs font-medium mb-4 text-[#2B283A]
         sm:text-sm
         lg:text-lg lg:mb-8
@@ -57,6 +58,7 @@ const Article = ({ details }) => {
         </p>
         <h1
           className="
+        location
         font-semibold text-xl text-[#2B283A] mb-3
         lg:text-3xl lg:mb-6
         xl:text-4xl xl:font-bold xl:mb-10
